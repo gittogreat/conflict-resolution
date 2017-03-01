@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="27 71 600 320" width="50pc" height="320pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.2.2
+    <dc:date>2017-02-28 18:35:20 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Helvetica" font-size="16" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="500">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="14" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="500">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>lifecycle</title>
+    <g>
+      <title>Layer 1</title>
+      <path d="M 513.17095 72.9672 L 605.03405 72.9672 C 615.90014 72.9672 624.719 86.72687 624.719 103.68075 C 624.719 120.63463 615.90014 134.3943 605.03405 134.3943 L 513.17095 134.3943 C 502.30486 134.3943 493.486 120.63463 493.486 103.68075 C 493.486 86.72687 502.30486 72.9672 513.17095 72.9672" fill="#9bc3ef"/>
+      <path d="M 513.17095 72.9672 L 605.03405 72.9672 C 615.90014 72.9672 624.719 86.72687 624.719 103.68075 C 624.719 120.63463 615.90014 134.3943 605.03405 134.3943 L 513.17095 134.3943 C 502.30486 134.3943 493.486 120.63463 493.486 103.68075 C 493.486 86.72687 502.30486 72.9672 513.17095 72.9672" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(511.6093 94.18075)" fill="black">
+        <tspan font-family="Helvetica" font-size="16" font-weight="500" x="22.13773" y="15" textLength="50.71094">Staged</tspan>
+      </text>
+      <path d="M 361.8309 72.9672 L 440.3751 72.9672 C 449.66576 72.9672 457.206 86.72687 457.206 103.68075 C 457.206 120.63463 449.66576 134.3943 440.3751 134.3943 L 361.8309 134.3943 C 352.54024 134.3943 345 120.63463 345 103.68075 C 345 86.72687 352.54024 72.9672 361.8309 72.9672" fill="#f7febf"/>
+      <path d="M 361.8309 72.9672 L 440.3751 72.9672 C 449.66576 72.9672 457.206 86.72687 457.206 103.68075 C 457.206 120.63463 449.66576 134.3943 440.3751 134.3943 L 361.8309 134.3943 C 352.54024 134.3943 345 120.63463 345 103.68075 C 345 86.72687 352.54024 72.9672 361.8309 72.9672" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(361.2206 94.18075)" fill="black">
+        <tspan font-family="Helvetica" font-size="16" font-weight="500" x="9.644119" y="15">Modified</tspan>
+      </text>
+      <path d="M 202.953 72.9672 L 286.253 72.9672 C 296.1062 72.9672 304.103 86.72687 304.103 103.68075 C 304.103 120.63463 296.1062 134.3943 286.253 134.3943 L 202.953 134.3943 C 193.0998 134.3943 185.103 120.63463 185.103 103.68075 C 185.103 86.72687 193.0998 72.9672 202.953 72.9672" fill="#cfe5c9"/>
+      <path d="M 202.953 72.9672 L 286.253 72.9672 C 296.1062 72.9672 304.103 86.72687 304.103 103.68075 C 304.103 120.63463 296.1062 134.3943 286.253 134.3943 L 202.953 134.3943 C 193.0998 134.3943 185.103 120.63463 185.103 103.68075 C 185.103 86.72687 193.0998 72.9672 202.953 72.9672" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(202.003 94.18075)" fill="black">
+        <tspan font-family="Helvetica" font-size="16" font-weight="500" x="2.1351563" y="15">Unmodified</tspan>
+      </text>
+      <line x1="244.103" y1="149.163" x2="244.103" y2="387" stroke="#989898" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line x1="400.603" y1="147.394" x2="400.603" y2="387" stroke="#989898" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line x1="558.603" y1="147.394" x2="558.603" y2="385.231" stroke="#989898" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(278.767 174.934)" fill="black">
+        <tspan font-family="Helvetica" font-size="14" font-weight="500" x=".48291016" y="14">stage files</tspan>
+      </text>
+      <path d="M 558.603 332.07317 L 558.603 367.92677 L 290.02393 367.9268 L 290.02393 387.74584 L 244.103 350 L 290.02393 312.25414 L 290.02393 332.0732 Z" fill="#ff9691"/>
+      <text transform="translate(368.603 343.29442)" fill="black">
+        <tspan font-family="Helvetica" font-size="14" font-weight="500" x=".1069336" y="14" textLength="63.78613">git commit</tspan>
+      </text>
+      <path d="M 244.103 212.9268 L 244.103 177.0732 L 354.68207 177.0732 L 354.68207 157.25415 L 400.603 195 L 354.68207 232.74585 L 354.68207 212.9268 Z" fill="#ff9691"/>
+      <path d="M 400.603 270.9268 L 400.603 235.0732 L 512.6821 235.0732 L 512.68207 215.25414 L 558.603 253 L 512.6821 290.74584 L 512.6821 270.9268 Z" fill="#ff9691"/>
+      <text transform="translate(277.767 186.163)" fill="black">
+        <tspan font-family="Helvetica" font-size="14" font-weight="500" x=".36914062" y="14">Edit the file</tspan>
+      </text>
+      <text transform="translate(450.733 245)" fill="black">
+        <tspan font-family="Helvetica" font-size="14" font-weight="500" x=".48291016" y="14" textLength="42.03418">git add</tspan>
+      </text>
+      <path d="M 45.8309 72.9672 L 124.3751 72.9672 C 133.66576 72.9672 141.206 86.72687 141.206 103.68075 C 141.206 120.63463 133.66576 134.3943 124.3751 134.3943 L 45.8309 134.3943 C 36.540243 134.3943 29 120.63463 29 103.68075 C 29 86.72687 36.540243 72.9672 45.8309 72.9672" fill="#e8b1ab"/>
+      <path d="M 45.8309 72.9672 L 124.3751 72.9672 C 133.66576 72.9672 141.206 86.72687 141.206 103.68075 C 141.206 120.63463 133.66576 134.3943 124.3751 134.3943 L 45.8309 134.3943 C 36.540243 134.3943 29 120.63463 29 103.68075 C 29 86.72687 36.540243 72.9672 45.8309 72.9672" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(45.2206 94.18075)" fill="black">
+        <tspan font-family="Helvetica" font-size="16" font-weight="500" x="3.4214625" y="15" textLength="72.921875">Untracked</tspan>
+      </text>
+      <line x1="84.603" y1="149.163" x2="84.603" y2="387" stroke="#989898" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path d="M 84.603 243.9268 L 84.603 208.0732 L 198.18207 208.0732 L 198.18207 188.25415 L 244.103 226 L 198.18207 263.74585 L 198.18207 243.9268 Z" fill="#9e9d97"/>
+      <path d="M 244.103 279.0732 L 244.103 314.9268 L 130.52393 314.9268 L 130.52393 334.74585 L 84.603 297 L 130.52393 259.25415 L 130.52393 279.0732 Z" fill="#9e9d97"/>
+      <text transform="translate(119 218)" fill="black">
+        <tspan font-family="Helvetica" font-size="14" font-weight="500" x=".4760742" y="14">Add the file</tspan>
+      </text>
+      <text transform="translate(127 288)" fill="black">
+        <tspan font-family="Helvetica" font-size="14" font-weight="500" x=".36572266" y="14">Remove the file</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

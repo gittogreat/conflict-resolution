@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="111 82 373 392" width="373pt" height="392pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.2.2
+    <dc:date>2017-02-25 22:10:42 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Lucida Grande" font-size="12" panose-1="2 11 6 0 4 5 2 2 2 4" units-per-em="1000" underline-position="-97.65625" underline-thickness="48.828125" slope="0" x-height="530.27344" cap-height="722.65625" ascent="966.7969" descent="-210.9375" font-weight="500">
+      <font-face-src>
+        <font-face-name name="LucidaGrande"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="500">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Lucida Grande" font-size="10" panose-1="2 11 6 0 4 5 2 2 2 4" units-per-em="1000" underline-position="-97.65625" underline-thickness="48.828125" slope="0" x-height="530.27344" cap-height="722.65625" ascent="966.7969" descent="-210.9375" font-weight="500">
+      <font-face-src>
+        <font-face-name name="LucidaGrande"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>basic 08b</title>
+    <g>
+      <title>Layer 1</title>
+      <path d="M 197.27863 265.37 L 230.98888 265.37 C 234.97632 265.37 238.2125 273.434 238.2125 283.37 C 238.2125 293.306 234.97632 301.37 230.98888 301.37 L 197.27863 301.37 C 193.29118 301.37 190.055 293.306 190.055 283.37 C 190.055 273.434 193.29118 265.37 197.27863 265.37" fill="#dbf6de"/>
+      <path d="M 197.27863 265.37 L 230.98888 265.37 C 234.97632 265.37 238.2125 273.434 238.2125 283.37 C 238.2125 293.306 234.97632 301.37 230.98888 301.37 L 197.27863 301.37 C 193.29118 301.37 190.055 293.306 190.055 283.37 C 190.055 273.434 193.29118 265.37 197.27863 265.37" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(199.87075 275.87)" fill="black">
+        <tspan font-family="Lucida Grande" font-size="12" font-weight="500" x="6.3176875" y="12" textLength="15.890625">C1</tspan>
+      </text>
+      <path d="M 119.96362 265.37 L 153.67387 265.37 C 157.66132 265.37 160.8975 273.434 160.8975 283.37 C 160.8975 293.306 157.66132 301.37 153.67387 301.37 L 119.96362 301.37 C 115.97618 301.37 112.74 293.306 112.74 283.37 C 112.74 273.434 115.97618 265.37 119.96362 265.37" fill="#dbf6de"/>
+      <path d="M 119.96362 265.37 L 153.67387 265.37 C 157.66132 265.37 160.8975 273.434 160.8975 283.37 C 160.8975 293.306 157.66132 301.37 153.67387 301.37 L 119.96362 301.37 C 115.97618 301.37 112.74 293.306 112.74 283.37 C 112.74 273.434 115.97618 265.37 119.96362 265.37" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(122.55575 275.87)" fill="black">
+        <tspan font-family="Lucida Grande" font-size="12" font-weight="500" x="6.3176875" y="12" textLength="15.890625">C0</tspan>
+      </text>
+      <line x1="188.555" y1="283.37" x2="172.2975" y2="283.37" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 274.59363 265.37 L 308.30388 265.37 C 312.2913 265.37 315.5275 273.434 315.5275 283.37 C 315.5275 293.306 312.2913 301.37 308.30388 301.37 L 274.59363 301.37 C 270.6062 301.37 267.37 293.306 267.37 283.37 C 267.37 273.434 270.6062 265.37 274.59363 265.37" fill="#dbf6de"/>
+      <path d="M 274.59363 265.37 L 308.30388 265.37 C 312.2913 265.37 315.5275 273.434 315.5275 283.37 C 315.5275 293.306 312.2913 301.37 308.30388 301.37 L 274.59363 301.37 C 270.6062 301.37 267.37 293.306 267.37 283.37 C 267.37 273.434 270.6062 265.37 274.59363 265.37" stroke="#e32400" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <text transform="translate(277.18575 275.87)" fill="#941100">
+        <tspan font-family="Lucida Grande" font-size="12" font-weight="500" fill="#941100" x="6.3176875" y="12" textLength="15.890625">C2</tspan>
+      </text>
+      <line x1="264.87" y1="283.37" x2="249.6125" y2="283.37" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="368.764" y1="232" x2="368.7639" y2="252.97" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 352.66162 321.63 L 386.37188 321.63 C 390.3593 321.63 393.5955 329.694 393.5955 339.63 C 393.5955 349.566 390.3593 357.63 386.37188 357.63 L 352.66162 357.63 C 348.6742 357.63 345.438 349.566 345.438 339.63 C 345.438 329.694 348.6742 321.63 352.66162 321.63" fill="#dbf6de"/>
+      <path d="M 352.66162 321.63 L 386.37188 321.63 C 390.3593 321.63 393.5955 329.694 393.5955 339.63 C 393.5955 349.566 390.3593 357.63 386.37188 357.63 L 352.66162 357.63 C 348.6742 357.63 345.438 349.566 345.438 339.63 C 345.438 329.694 348.6742 321.63 352.66162 321.63" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(355.25375 332.13)" fill="black">
+        <tspan font-family="Lucida Grande" font-size="12" font-weight="500" x="6.3176875" y="12" textLength="15.890625">C3</tspan>
+      </text>
+      <line x1="347.46213" y1="323.73625" x2="322.34635" y2="305.63647" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 351.90862 265.37 L 385.61888 265.37 C 389.6063 265.37 392.8425 273.434 392.8425 283.37 C 392.8425 293.306 389.6063 301.37 385.61888 301.37 L 351.90862 301.37 C 347.9212 301.37 344.685 293.306 344.685 283.37 C 344.685 273.434 347.9212 265.37 351.90862 265.37" fill="#dbf6de"/>
+      <path d="M 351.90862 265.37 L 385.61888 265.37 C 389.6063 265.37 392.8425 273.434 392.8425 283.37 C 392.8425 293.306 389.6063 301.37 385.61888 301.37 L 351.90862 301.37 C 347.9212 301.37 344.685 293.306 344.685 283.37 C 344.685 273.434 347.9212 265.37 351.90862 265.37" stroke="#e32400" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <text transform="translate(354.50075 275.87)" fill="#941100">
+        <tspan font-family="Lucida Grande" font-size="12" font-weight="500" fill="#941100" x="6.3176875" y="12" textLength="15.890625">C4</tspan>
+      </text>
+      <line x1="342.185" y1="283.37" x2="327.9275" y2="283.37" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 427.2236 321.63 L 460.9339 321.63 C 464.9213 321.63 468.1575 329.694 468.1575 339.63 C 468.1575 349.566 464.9213 357.63 460.9339 357.63 L 427.2236 357.63 C 423.2362 357.63 420 349.566 420 339.63 C 420 329.694 423.2362 321.63 427.2236 321.63" fill="#dbf6de"/>
+      <path d="M 427.2236 321.63 L 460.9339 321.63 C 464.9213 321.63 468.1575 329.694 468.1575 339.63 C 468.1575 349.566 464.9213 357.63 460.9339 357.63 L 427.2236 357.63 C 423.2362 357.63 420 349.566 420 339.63 C 420 329.694 423.2362 321.63 427.2236 321.63" stroke="#e32400" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <text transform="translate(429.81575 332.13)" fill="#941100">
+        <tspan font-family="Lucida Grande" font-size="12" font-weight="500" fill="#941100" x="6.3176875" y="12" textLength="15.890625">C5</tspan>
+      </text>
+      <line x1="417.5" y1="339.63" x2="404.9955" y2="339.63" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 265.63625 322.63 L 317.26125 322.63 C 323.36775 322.63 328.32375 330.246 328.32375 339.63 C 328.32375 349.014 323.36775 356.63 317.26125 356.63 L 265.63625 356.63 C 259.52975 356.63 254.57375 349.014 254.57375 339.63 C 254.57375 330.246 259.52975 322.63 265.63625 322.63" stroke="#636363" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(264.94875 325.63)" fill="black">
+        <tspan font-family="Helvetica" font-size="12" font-weight="500" x="2.1601562" y="11" textLength="52.01367">Common </tspan>
+        <tspan font-family="Helvetica" font-size="12" font-weight="500" x="2.8222656" y="25" textLength="47.35547">Ancestor</tspan>
+      </text>
+      <path d="M 341.51675 83.52 L 397.51675 83.52 C 404.14075 83.52 409.51675 91.136 409.51675 100.52 C 409.51675 109.904 404.14075 117.52 397.51675 117.52 L 341.51675 117.52 C 334.89275 117.52 329.51675 109.904 329.51675 100.52 C 329.51675 91.136 334.89275 83.52 341.51675 83.52" stroke="#636363" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(340.51675 86.52)" fill="black">
+        <tspan font-family="Helvetica" font-size="12" font-weight="500" x="3.3183594" y="11" textLength="51.36328">Branch to</tspan>
+        <tspan font-family="Helvetica" font-size="12" font-weight="500" x=".31835938" y="25" textLength="57.36328">Merge Into</tspan>
+      </text>
+      <path d="M 417.3916 438.48 L 470.7666 438.48 C 477.0801 438.48 482.2041 446.096 482.2041 455.48 C 482.2041 464.864 477.0801 472.48 470.7666 472.48 L 417.3916 472.48 C 411.0781 472.48 405.9541 464.864 405.9541 455.48 C 405.9541 446.096 411.0781 438.48 417.3916 438.48" stroke="#636363" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(416.5791 441.48)" fill="black">
+        <tspan font-family="Helvetica" font-size="12" font-weight="500" x="1.8183594" y="11" textLength="54.697266">Branch to </tspan>
+        <tspan font-family="Helvetica" font-size="12" font-weight="500" x="3.8222656" y="25" textLength="47.35547">Merge In</tspan>
+      </text>
+      <rect x="333.753" y="195" width="70.0222" height="36" fill="#f2f2f2"/>
+      <rect x="333.753" y="195" width="70.0222" height="36" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(338.753 207)" fill="#8a8a8a">
+        <tspan font-family="Lucida Grande" font-size="10" font-weight="500" fill="#8a8a8a" x="13.331412" y="10" textLength="33.359375">master</tspan>
+      </text>
+      <line x1="443" y1="391.48" x2="442.33563" y2="371.8943" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="409.068" y="391.48" width="70.0222" height="36" fill="#f2f2f2"/>
+      <rect x="409.068" y="391.48" width="70.0222" height="36" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(414.068 403.48)" fill="#8a8a8a">
+        <tspan font-family="Lucida Grande" font-size="10" font-weight="500" fill="#8a8a8a" x="12.821159" y="10" textLength="34.379883">feature</tspan>
+      </text>
+      <rect x="334.50565" y="126.63" width="70.0222" height="36" fill="#999"/>
+      <rect x="334.50565" y="126.63" width="70.0222" height="36" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(339.50565 138.63)" fill="#353535">
+        <tspan font-family="Lucida Grande" font-size="10" font-weight="500" fill="#353535" x="16.431998" y="10" textLength="27.158203">HEAD</tspan>
+      </text>
+      <line x1="369.51685" y1="163.63" x2="369.51697" y2="185.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 447.73956 319.16908 C 450.49276 303.78092 464.7499 279.4903 456 273 C 448.56256 267.48324 424.4987 274.82438 405.009 278.62938" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="51 60 441 361" width="441pt" height="361pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.2.2
+    <dc:date>2017-02-28 18:35:20 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Helvetica" font-size="16" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="500">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="14" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="500">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>operations</title>
+    <g>
+      <title>Layer 1</title>
+      <path d="M 378.93795 61.9672 L 470.80105 61.9672 C 481.66714 61.9672 490.486 75.72687 490.486 92.68075 C 490.486 109.63463 481.66714 123.3943 470.80105 123.3943 L 378.93795 123.3943 C 368.07186 123.3943 359.253 109.63463 359.253 92.68075 C 359.253 75.72687 368.07186 61.9672 378.93795 61.9672" fill="#9bc3ef"/>
+      <path d="M 378.93795 61.9672 L 470.80105 61.9672 C 481.66714 61.9672 490.486 75.72687 490.486 92.68075 C 490.486 109.63463 481.66714 123.3943 470.80105 123.3943 L 378.93795 123.3943 C 368.07186 123.3943 359.253 109.63463 359.253 92.68075 C 359.253 75.72687 368.07186 61.9672 378.93795 61.9672" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(377.3763 73.68075)" fill="black">
+        <tspan font-family="Helvetica" font-size="16" font-weight="500" x="3.0439813" y="15" textLength="88.89844">Git Directory</tspan>
+        <tspan font-family="Helvetica" font-size="16" font-weight="500" x="3.9267938" y="34" textLength="87.13281">(Repository)</tspan>
+      </text>
+      <path d="M 227.5979 61.9672 L 306.1421 61.9672 C 315.43276 61.9672 322.973 75.72687 322.973 92.68075 C 322.973 109.63463 315.43276 123.3943 306.1421 123.3943 L 227.5979 123.3943 C 218.30724 123.3943 210.767 109.63463 210.767 92.68075 C 210.767 75.72687 218.30724 61.9672 227.5979 61.9672" fill="#f7febf"/>
+      <path d="M 227.5979 61.9672 L 306.1421 61.9672 C 315.43276 61.9672 322.973 75.72687 322.973 92.68075 C 322.973 109.63463 315.43276 123.3943 306.1421 123.3943 L 227.5979 123.3943 C 218.30724 123.3943 210.767 109.63463 210.767 92.68075 C 210.767 75.72687 218.30724 61.9672 227.5979 61.9672" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(226.9876 73.68075)" fill="black">
+        <tspan font-family="Helvetica" font-size="16" font-weight="500" x="12.749588" y="15" textLength="58.71094">Staging</tspan>
+        <tspan font-family="Helvetica" font-size="16" font-weight="500" x="22.983963" y="34" textLength="33.796875">Area</tspan>
+      </text>
+      <path d="M 69.5979 61.9672 L 148.1421 61.9672 C 157.43276 61.9672 164.973 75.72687 164.973 92.68075 C 164.973 109.63463 157.43276 123.3943 148.1421 123.3943 L 69.5979 123.3943 C 60.30724 123.3943 52.767 109.63463 52.767 92.68075 C 52.767 75.72687 60.30724 61.9672 69.5979 61.9672" fill="#cfe5c9"/>
+      <path d="M 69.5979 61.9672 L 148.1421 61.9672 C 157.43276 61.9672 164.973 75.72687 164.973 92.68075 C 164.973 109.63463 157.43276 123.3943 148.1421 123.3943 L 69.5979 123.3943 C 60.30724 123.3943 52.767 109.63463 52.767 92.68075 C 52.767 75.72687 60.30724 61.9672 69.5979 61.9672" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(68.9876 73.68075)" fill="black">
+        <tspan font-family="Helvetica" font-size="16" font-weight="500" x="10.683181" y="15">Working</tspan>
+        <tspan font-family="Helvetica" font-size="16" font-weight="500" x="7.878494" y="34" textLength="64.00781">Directory</tspan>
+      </text>
+      <line x1="109.87" y1="138.163" x2="108.87" y2="417" stroke="#989898" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line x1="266.37" y1="136.394" x2="266.37" y2="417" stroke="#989898" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line x1="424.37" y1="136.394" x2="424.37" y2="417" stroke="#989898" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(144.534 163.934)" fill="black">
+        <tspan font-family="Helvetica" font-size="14" font-weight="500" x=".48291016" y="14">stage files</tspan>
+      </text>
+      <path d="M 424.40777 163.40646 L 424.33223 199.25998 L 155.6006 198.69372 L 155.55885 218.51273 L 109.71756 180.6702 L 155.71792 143.0212 L 155.67616 162.8402 Z" fill="#ff9691"/>
+      <text transform="translate(201.87 171.6942)" fill="black">
+        <tspan font-family="Helvetica" font-size="14" font-weight="500" x=".296875" y="14" textLength="128.40625">Checkout the project</tspan>
+      </text>
+      <path d="M 109.37023 295.9424 L 109.36666 260.0888 L 220.44729 260.07774 L 220.4453 240.2587 L 266.37 277.99997 L 220.45283 315.7504 L 220.45086 295.93134 Z" fill="#ff9691"/>
+      <path d="M 266.37 383.92684 L 266.37 348.07324 L 378.44907 348.07324 L 378.44907 328.2542 L 424.37 366.00004 L 378.44907 403.7459 L 378.44907 383.92684 Z" fill="#ff9691"/>
+      <text transform="translate(309.833 357.333)" fill="black">
+        <tspan font-family="Helvetica" font-size="14" font-weight="500" x=".38964844" y="14" textLength="48.220703">Commit</tspan>
+      </text>
+      <text transform="translate(136.333 269.333)" fill="black">
+        <tspan font-family="Helvetica" font-size="14" font-weight="500" x=".31396484" y="14">Stage files</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
