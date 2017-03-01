@@ -1964,10 +1964,33 @@ Already up-to-date.
 
 # Undoing pushed merge
 
+<div style="float: left;">
+
+Even worse.
+It will do non-obvious things:
+It would only bring in new commits!
+
+```sh
+$ git merge feature	
+# would only bring in C6
+```
+
+</div>
+
+<div style="margin-top: -270px; float: right;">
+
+![center 140%](images/undo-04b.svg)
+
+</div>
+
+---
+
+# Undoing pushed merge
+
 <div style="float: left; margin-top: -60px">
 
 When we want the merge:
-Un-revert the original merge
+Easy: Revert the revert!
 
 ```sh
 # get sha for ^M via `git log -1 | head -1`
