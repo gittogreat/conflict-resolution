@@ -100,7 +100,7 @@
       <path d="M 493.9436 321.63 L 527.65386 321.63 C 531.6413 321.63 534.8775 329.694 534.8775 339.63 C 534.8775 349.566 531.6413 357.63 527.65386 357.63 L 493.9436 357.63 C 489.9562 357.63 486.72 349.566 486.72 339.63 C 486.72 329.694 489.9562 321.63 493.9436 321.63" fill="#dbf6de"/>
       <path d="M 493.9436 321.63 L 527.65386 321.63 C 531.6413 321.63 534.8775 329.694 534.8775 339.63 C 534.8775 349.566 531.6413 357.63 527.65386 357.63 L 493.9436 357.63 C 489.9562 357.63 486.72 349.566 486.72 339.63 C 486.72 329.694 489.9562 321.63 493.9436 321.63" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
       <text transform="translate(496.53574 332.13)" fill="black">
-        <tspan font-family="Lucida Grande" font-size="12" font-weight="500" x="6.3176875" y="12" textLength="15.890625">C5</tspan>
+        <tspan font-family="Lucida Grande" font-size="12" font-weight="500" x="6.3176875" y="12" textLength="15.890625">C6</tspan>
       </text>
       <line x1="485.22" y1="339.63335" x2="479.5575" y2="339.6341" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
     </g>
