@@ -1635,7 +1635,7 @@ $ git merge-file -p \
 
 ---
 
-# Merge Manually
+# Merge Semi-Manually
 
 To fix the merge we need to `dos2unix` and
 
@@ -1644,7 +1644,7 @@ To fix the merge we need to `dos2unix` and
 
 ---
 
-# Merge Manually
+# Merge Semi-Manually
 
 <div style="float: left">
 
@@ -1670,7 +1670,7 @@ $ git show :3:hello.rb > hello.theirs.rb
 
 ---
 
-# Merge Manually
+# Merge Semi-Manually
 
 We fix the whitespace using `dos2unix`
 
@@ -1684,7 +1684,7 @@ $ git merge-file -p \
 
 ---
 
-# Merge Manually
+# Merge Semi-Manually
 
 Let's take a look a the diff
 
@@ -1710,7 +1710,7 @@ index 36c06c8,e85207e..0000000
 
 ---
 
-# Merge Manually
+# Merge Semi-Manually
 
 Clean up
 
@@ -1724,7 +1724,7 @@ Removing hello.theirs.rb
 
 ---
 
-# Merge Manually
+# Merge Semi-Manually
 
 Finish
 
@@ -1736,15 +1736,31 @@ $ git commit
 
 ---
 
-# Work, work.
+# Merge Manually
 
-## Goal: Merge feature into master
+If there is no easy fix, we have to edit the code manually.
 
-### `git clone https://github.com/gittogreat/work-conflict`
+That means
+
+0. Open your editor
+1. Choose the right lines of code
+2. Merge them
+3. Remove markers
+4. Test
 
 ---
 
-# Goal: Merge feature into master
+# Work, work.
+
+## Goal: Merge `spanish` into `master`
+
+### `git clone https://github.com/gittogreat/work-conflict`
+
+### Try things out
+
+---
+
+# Goal: Merge `spanish` into `master`
 
 <div style="float: left; width: 50%; margin-top: -60px">
 
@@ -1759,7 +1775,7 @@ $ git config merge.conflictstyle diff3
 $ git merge whitespace
 ```
 
-3. Show versions
+4. Show versions
 
 ```
 $ git show :1:hello.rb > common.rb
@@ -1773,7 +1789,7 @@ $ git show :3:hello.rb > theirs.rb
 
 <div style="float: right; width: 48%; margin-top: -60px">
 
-4. List history
+3. List history
 
 ```sh
 # all commits for this merge
@@ -1891,13 +1907,23 @@ Date:   Wed Mar 1 01:39:37 2017 +0100
 
 ```
 
+Make sure that `2f6a157` is from master
+
+```
+# git branch --contains <commit>
+$ git branch --contains 2f6a157
+* master
+```
+
 ---
 
 # Undoing pushed merge
 
-<div style="float: left;">
+<div style="float: left; margin-top: -80px">
 
-Choose the right mainline, starting with 1
+Choose the right mainline, starting with `1`
+Normally it is `1`, we rarely choose feature
+as mainline
 
 ```sh
 $ git revert HEAD --mainline 1
@@ -1938,32 +1964,13 @@ Already up-to-date.
 
 # Undoing pushed merge
 
-<div style="float: left;">
+<div style="float: left; margin-top: -60px">
 
-Even worse, it would only merge new changes!
-
-```sh
-$ git merge feature	
-Already up-to-date.
-```
-
-</div>
-
-<div style="margin-top: -180px; float: right;">
-
-![center 140%](images/undo-04b.svg)
-
-</div>
-
----
-
-# Undoing pushed merge
-
-<div style="float: left;">
-
+When we want the merge:
 Un-revert the original merge
 
 ```sh
+# get sha for ^M via `git log -1 | head -1`
 $ git revert ^M
 [master 09f0126] Revert "Revert "Merge branch 'feature'""
 ```
@@ -1978,31 +1985,18 @@ $ git revert ^M
 
 ---
 
-# Undoing pushed merge
-
-<div style="float: left;">
-
-Un-revert the original merge
-
-```sh
-$ git merge feature
-```
-
-</div>
-
-<div style="margin-top: -215px; float: right;">
-
-![center 140%](images/undo-06.svg)
-
-</div>
-
----
-
 # Work, work.
 
 ## Undo the merge you did
 
-## Imagine you pushed it already
+### Imagine you pushed it already
+
+##### 1. Find the mainline you plan to revert to
+##### 2. Use `git revert HEAD --mainline ???` to undo merge
+##### 3. Find the commit SHA to revert the revert
+##### 4. Revert the Revert
+
+##### Bonus: Locally reset your repo to before the reverts
 
 ---
 
