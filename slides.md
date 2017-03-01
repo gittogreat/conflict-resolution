@@ -127,7 +127,7 @@ nothing to commit, working tree clean
 
 <div style="float: left">
 
-Everybody is happy!
+Everybody is happy! 
 
 ```html
 $ less index.html
@@ -390,7 +390,7 @@ Fast-forward
 
 <div style="float: left;">
 
-Crisis averted!
+Crisis averted! 
 Let's finish the feature.
 
 ```sh
@@ -411,7 +411,7 @@ Switched to branch "feature"
 
 <div style="float: left;">
 
-Crisis averted!
+Crisis averted! 
 Let's finish the feature.
 
 But first:
@@ -617,11 +617,29 @@ Date:   Mon Feb 27 10:38:39 2017 +0100
 
 # Work, work.
 
-## `git clone https://github.com/gittogreat/demo`
+## `git clone https://github.com/gittogreat/work-merge`
 
-## Goal:
+## Goal: Create a succesful merge
 
-### Create a succesful merge
+---
+
+## Goal: Create a succesful merge
+
+##### 1. Create feature branch
+##### 2. Change `body` in that branch
+##### 3. Go back to `master` branch
+##### 4. Change `title` in master
+##### 5. Merge
+
+Use
+
+```
+$ git clone https://github.com/gittogreat/work-merge
+$ git branch ...
+$ git checkout ...
+# vim or your favourite editor
+$ git merge ...
+```
 
 ---
 
@@ -642,7 +660,7 @@ Date:   Mon Feb 27 10:38:39 2017 +0100
 
 > A merge conflict happens when two branches both modify the same line of a file and are subsequently merged.
 
-Only you know the intention of the change.
+Only you know the intention of the change. 
 
 Git can't.
 
@@ -682,7 +700,7 @@ We had some uncommited changes
 ```sh
 $ git status --short
  M index.html
-
+ 
 $ git merge feature
 ```
 
@@ -731,7 +749,7 @@ $ git commit
 
 <div style="float: left;  width: 45%"">
 
-Unstaged changes.
+Unstaged changes. 
 
 This is destructive!
 
@@ -743,7 +761,7 @@ $ git checkout index.html
 
 <div style="float: right; width: 45%">
 
-Staged changes.
+Staged changes. 
 
 This is destructive!
 
@@ -765,7 +783,7 @@ $ git status --short
  M index.html
 
 $ git stash
-
+                                        
 $ git status --short
 ```
 
@@ -787,7 +805,7 @@ And after the merge:
 
 ```sh
 $ git stash apply
-
+     
 $ git status --short
  M index.html
 ```
@@ -1067,8 +1085,8 @@ index ac51efd..36c06c8 100755
  def hello
    puts 'hello world'
  end
-
-$ git add hello.rb
+ 
+$ git add hello.rb 
 $ git commit -m 'Add documentation'
 ```
 
@@ -1132,7 +1150,7 @@ Automatic merge failed; fix conflicts and then commit the result.
 
 ---
 
-# Question
+# Question 
 
 ## Why was there a conflict?
 
@@ -1423,7 +1441,7 @@ def hello
 >>>>>>> whitespace
 ```
 
-But normally you don't have the luxury
+But normally you don't have the luxury 
 to know what should be there.
 
 </div>
@@ -1544,7 +1562,7 @@ We gain `|||||||` marker
 
 # List involved commits
 
-List all involved commits for this merge
+List all involved commits for this merge 
 
 ```
 # git log --merge --patch [path]
@@ -1904,7 +1922,7 @@ $ git revert HEAD --mainline 1
 What happens if you try to merge again?
 
 ```sh
-$ git merge feature
+$ git merge feature	
 Already up-to-date.
 ```
 
@@ -1925,7 +1943,7 @@ Already up-to-date.
 Even worse, it would only merge new changes!
 
 ```sh
-$ git merge feature
+$ git merge feature	
 Already up-to-date.
 ```
 
