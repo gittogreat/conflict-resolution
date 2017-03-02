@@ -507,26 +507,9 @@ $ git merge feature
 
 What will happen?
 
-<div style="float: left; width: 48%">
+<div style="float: left; width: 48%; margin-top: -60px">
 
-```html
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-
-    <title>gittogreat</title>
-    <meta name="description" content="demo repository">
-  </head>
-
-  <body>
-    Hello World!
-  </body>
-</html>
-```
-
-</div>
-
-<div style="float: right; width: 48%">
+On `master` branch
 
 ```html
 <html lang="en">
@@ -538,7 +521,28 @@ What will happen?
   </head>
 
   <body>
-    Hello World!!!!!
+    Hello World!
+  </body>
+</html>
+```
+
+</div>
+
+<div style="float: right; width: 48%; margin-top: -60px">
+
+On `feature` branch
+
+```html
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <title>gittogreat</title>
+    <meta name="description" content="demo repository">
+  </head>
+
+  <body>
+    Hello World!!!
   </body>
 </html>
 ```
@@ -586,7 +590,7 @@ index.html |    1 +
 
 </div>
 
-<div style="margin-top: -120px; margin-right: -20px; float: right;">
+<div style="margin-top: -300px; margin-right: -20px; float: right;">
 
 ![center 140%](images/basic-08a.svg)
 </div>
@@ -1528,7 +1532,7 @@ What is missing here?
 
 # Set conflictstyle
 
-<div style="float: left; width: 45%;">
+<div style="float: left; width: 55%; margin-top: -30px">
 
 ```
 # git merge --abort
@@ -1537,7 +1541,8 @@ $ git config merge.conflictstyle diff3
 $ git merge whitespace
 ```
 
-We gain `|||||||` marker
+We gain `|||||||` marker for common
+ancestor. Abstract example:
 
 ```
 <<<<<<< master
